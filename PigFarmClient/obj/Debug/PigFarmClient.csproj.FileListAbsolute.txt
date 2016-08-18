@@ -1,0 +1,196 @@
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarmClient.exe
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarmClient.pdb
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarm.dll
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarm.pdb
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.exe
+K:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.pdb
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.exe
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.pdb
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarmClient.exe
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarmClient.pdb
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\bin\Debug\PigFarm.dll
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+F:\Documents\H09\DTA101\PigFarmClient\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning1\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning1\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning2\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning2\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning2\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning2\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning2\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning2\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning2\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning2\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning3\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning3\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning3\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning3\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning3\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning3\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning3\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning3\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning4\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning4\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning4\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning4\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning4\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning4\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning4\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning4\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning5\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning5\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning5\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning5\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning5\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning5\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning5\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning5\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning6\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning6\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning6\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning6\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning6\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning6\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning6\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning6\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning7\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning7\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning7\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning7\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning7\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning7\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning7\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning7\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning8\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning8\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning8\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning8\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning8\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning8\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning8\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning8\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning9\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning9\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning9\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning9\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning9\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning9\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning9\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning9\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning10\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning10\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning10\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning10\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning10\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning10\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning10\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning10\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning11\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning11\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning11\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning11\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning11\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning11\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning11\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning11\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning12\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning12\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning12\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning12\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning12\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning12\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning12\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning12\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning13\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning13\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning13\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning13\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Datateknik\Ovning13\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Datateknik\Ovning13\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Datateknik\Ovning13\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Datateknik\Ovning13\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Datateknik\Ovning14\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Datateknik\Ovning14\PigFarmClient\obj\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\bin\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\bin\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Datateknik\Visual Studio\Ovning14\PigFarmClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\bin\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\bin\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Datateknik\Visual Studio\Ovning15\PigFarmClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\bin\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\bin\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Datateknik\Visual Studio\Ovning16\PigFarmClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\bin\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\bin\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Datateknik\Visual Studio\Laboration 2\PigFarmClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\bin\Debug\PigFarmClient.exe
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\bin\Debug\PigFarmClient.pdb
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Datateknik\Visual Studio\Laboration 3\PigFarmClient\obj\Debug\GenerateResource-ResGen.write.1.tlog
+H:\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Laboration 3\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Laboration 3\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Laboration 3\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Laboration 3\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+H:\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.exe
+H:\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.pdb
+H:\Labb 03\PigFarmClient\bin\Debug\PigFarmClient.exe
+H:\Labb 03\PigFarmClient\bin\Debug\PigFarmClient.pdb
+H:\Labb 03\PigFarmClient\obj\Debug\ResolveAssemblyReference.cache
+H:\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+H:\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+H:\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.exe
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.pdb
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\bin\Debug\PigFarmClient.exe
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\bin\Debug\PigFarmClient.pdb
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.csprojResolveAssemblyReference.cache
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.Form1.resources
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.Properties.Resources.resources
+F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient\obj\Debug\PigFarmClient.csproj.GenerateResource.Cache

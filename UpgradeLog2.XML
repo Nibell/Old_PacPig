@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PigFarmClient">
+</Property><Property Name="Solution File" Value="F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient.sln">
+</Property><Property Name="User Options File" Value="F:\Skolan\År 1\DTA101\Labb 03\PigFarmClient.suo">
+</Property><Property Name="Date" Value="den 30 maj 2014">
+</Property><Property Name="Time" Value="18:57">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PigFarmClient.sln" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PigFarmClient.suo" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient.suo">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\PigFarmClient.csproj" Description="Project file successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\PigFarmClient.csproj">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Form1.cs" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Form1.Designer.cs" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Program.cs" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Program.cs">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Properties\Settings.Designer.cs" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Properties\app.manifest" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Properties\Settings.settings" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Form1.resx" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\Properties\Resources.resx" Description="File successfully backed up as F:\Skolan\År 1\DTA101\Labb 03\Backup1\PigFarmClient\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\PigFarmClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PigFarmClient" Source="PigFarmClient\PigFarmClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PigFarmClient.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PigFarmClient.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PigFarmClient" Source="PigFarmClient\PigFarmClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
